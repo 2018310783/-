@@ -11,4 +11,4 @@
 2.接着统计该文字中某文字出现的次数；
 3.异常处理
 四、实验结果 
-![image]()
+![image](https://github.com/2018310783/-/upload/master)
